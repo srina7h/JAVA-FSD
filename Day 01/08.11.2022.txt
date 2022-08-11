@@ -1,0 +1,4 @@
+1.Installed git and created an account
+2.Created an account in github
+3.Created a repository as java fsd
+4.Learned how to push the data from local to remote by using commands.
