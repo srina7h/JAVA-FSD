@@ -1,0 +1,25 @@
+int i,j,row=3;
+for(i=0;i<row;i+=2)
+{
+  for(j=row-i;j>1;j--)
+  {
+    System.out.print(" ");
+  }
+for(j=0;j<=i;j++)
+{
+    System.out.print("# ");
+}
+System.out.println();
+}
+for(i=row;i>0;i-=2)
+{
+  for(j=0;j<i-1;j++)
+  {
+    System.out.print(" ");
+  }
+  for(j=0;j<i-2;j++)
+  {
+    System.out.print("# ");
+  }
+  System.out.println();
+}
