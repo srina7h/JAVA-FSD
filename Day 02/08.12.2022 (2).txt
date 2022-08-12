@@ -1,0 +1,3 @@
+Star pattern
+Basics to Java and oops concepts
+Installed intellij
