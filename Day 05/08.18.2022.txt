@@ -1,0 +1,23 @@
+1.Worked on the Mini Project
+2.Topics Covered
+Java String Methods
+Regular Expression
+Multi-Threading
+Java Reflection
+Data format
+Convention
+Collections
+Jdbc
+List
+Threads
+Rmi
+Internationalization
+Synchronization
+Runtime&Compile Time Polymorphism
+API
+Enums
+Linked List
+Hash map
+Hash Set
+Lambda
+File Handling
