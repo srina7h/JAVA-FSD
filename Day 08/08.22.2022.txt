@@ -1,0 +1,17 @@
+Topics Covered
+ Mini Project Using Java - Todo
+Spring-Basics
+Tightly Coupled,Loosely Coupled
+Component & Autowired
+Primary
+Constructor & Setter Injection
+Auto Wiring by Name
+Qualifier
+Bean Scope
+Complex Scope
+Component Scope
+lifecycle of Bean
+CDI
+Without Spring Boot
+Xml Configuration
+Git Branching
