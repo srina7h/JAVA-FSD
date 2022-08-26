@@ -7,9 +7,6 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import javax.management.loading.ClassLoaderRepository;
-import java.util.ArrayList;
-
 @SpringBootApplication
 public class SpringBootTodoApplication implements CommandLineRunner {
 
