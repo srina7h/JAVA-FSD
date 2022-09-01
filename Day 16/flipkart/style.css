@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    background-color: #2874f0;
+    height: 85px;
+    width:auto;
+}
+.navbar-brand img{
+    position: relative;
+    left: 220px;
+    top: 20px;
+    text-decoration: none;
+    color: inherit;
+    border: none;
+    outline: none;
+    height: 50px;
+}
+.search input{
+    position: relative;
+    left: 440px;
+    bottom: 30px;
+    height: 43px;
+    width: 300px;
+}
+.login{
+    position: relative;
+    left: 60%;
+    bottom: 70px;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    color: #2874f0;
+    cursor: pointer;
+    border-radius: 2px;
+    height: 32px;
+    padding: 5px 40px;
+}
+.Bas-btn{
+    position: relative;
+    left: 62%;
+    bottom: 80px;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    letter-spacing: .1px;
+    color: #fff;
+    background-color: #2874f0;
+    border: 1px solid #2874f0;
+}
+.Dropdown-Menu{
+    position: relative;
+    left:72%;
+    bottom: 100px;
+    border: 108px;
+    background-color: #2874f0;
+    color: #fff;
+}
+.Dropdown-Menu :hover{
+    border: 1px solid black;
+    background: black;
+    transition: 0.5s;
+
+}
+.select-menu{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    letter-spacing: .1px;
+    background-color: #2874f0;
+    color: #fff;
+    background-color: #2874f0;
+}
+.cart-btn{
+    position: relative;
+    left: 85%;
+    bottom: 118px;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    letter-spacing: .1px;
+    color: #fff;
+    background-color: #2874f0;
+    border: 1px solid #2874f0;
+}
+#search-button{
+    position: relative;
+    left: 30%;
+    bottom: 33px;
+    width: 40px;
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
