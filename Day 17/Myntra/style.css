@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+
+.coco{
+    width: 60px;
+}
+
+.nav-item{
+    font-weight: bold;
+    color: black;
+}
+
+nav{
+    display: flex;
+}
+
+.nav-item, .nav-link {
+    font-size: 17px;
+    color: black;
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul div{
+    padding-left: 20px;
+}
+
+ul li a{
+    padding-left:20px;
+}
