@@ -6,4 +6,4 @@ Topics Covered
  component lifecycle
  react examples front end UI feedback form
 Project
- Work in progress
+ Work in progress.
